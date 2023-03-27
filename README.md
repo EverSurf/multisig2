@@ -5,7 +5,6 @@
 # Multisignature Wallet 2.0
 
 [![GitHub](https://img.shields.io/github/license/EverSurf/multisig2?style=for-the-badge)](./LICENSE)
-[![Everscale](https://custom-icon-badges.demolab.com/badge/-everscale-13173e?style=for-the-badge&logoColor=yellow&logo=everscale)](https://everscale.network/)
 
 **Status**: Released
 
