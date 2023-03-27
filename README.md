@@ -4,7 +4,7 @@
 
 # Multisignature Wallet 2.0
 
-[![GitHub](https://img.shields.io/github/license/EverSurf/multisig2?style=for-the-badge)](./LICENSE)
+[![GitHub](https://img.shields.io/badge/license-AGPL--3.0-orange?style=for-the-badge)](./LICENSE)
 
 **Status**: Released
 
